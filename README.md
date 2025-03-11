@@ -1,1 +1,1 @@
-# tugas2pwd
+# latihan_kuis
